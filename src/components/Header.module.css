@@ -1,0 +1,15 @@
+.header {
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+
+.header ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header ul li {
+    list-style: none;
+    margin: 20px;
+}
